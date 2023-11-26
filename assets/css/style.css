@@ -28,9 +28,9 @@ body, html {
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: white;
-    padding: 20px; /* Ajuste conforme necessário */
-    border-radius: 10px; /* Adiciona bordas arredondadas, ajuste conforme necessário */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Adiciona uma sombra, ajuste conforme necessário */
+    padding: 20px; 
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 .content {
